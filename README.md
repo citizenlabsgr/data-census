@@ -1,5 +1,6 @@
 # Data Census:
 
+
 **Slack:** #project-datacensus
 
 **Project Description:**
@@ -12,16 +13,16 @@ The US City Open Data Census is a web application developed and maintained by [S
 **Project Guide:**  [@allen](https://citizenlabs.slack.com/messages/@allen/)
 
 **Maintainers (people with write access):**
-* Person 1
+- Person 1
 
 **Data:**
-* Sources:
- * [Grand Rapids Open Data Portal](http://data.grcity.us/)   
-* Collected [US City Open Data Census](http://us-city.census.okfn.org) data
- * [Current (CSV)](http://us-city.census.okfn.org/api/entries.cascade.csv)
- * [All (CSV)](http://us-city.census.okfn.org/api/entries.csv)
- * [Current (JSON)](http://us-city.census.okfn.org/api/entries.cascade.json)
- * [All (JSON)](http://us-city.census.okfn.org/api/entries.json)
+- Sources:
+ - [Grand Rapids Open Data Portal](http://data.grcity.us/)   
+- Collected [US City Open Data Census](http://us-city.census.okfn.org) data
+ - [Current (CSV)](http://us-city.census.okfn.org/api/entries.cascade.csv)
+ - [All (CSV)](http://us-city.census.okfn.org/api/entries.csv)
+ - [Current (JSON)](http://us-city.census.okfn.org/api/entries.cascade.json)
+ - [All (JSON)](http://us-city.census.okfn.org/api/entries.json)
 
 ### Getting started:
 * We welcome contributions from first timers.
