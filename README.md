@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/citizenlabsgr/data-census.png?label=ready&title=Ready)](https://waffle.io/citizenlabsgr/data-census?utm_source=badge)
 # Data Census:
 
 
