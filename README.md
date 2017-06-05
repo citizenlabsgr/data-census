@@ -13,8 +13,8 @@ The US City Open Data Census is a web application developed and maintained by [S
 
 **Project Guide:**  [@allen](https://citizenlabs.slack.com/messages/@allen/)
 
-**Maintainers (people with write access):**
-- Person 1
+**Maintainers:**
+- not applicable
 
 **Data:**
 - Sources:
