@@ -1,4 +1,3 @@
-[![Stories in Ready](https://badge.waffle.io/citizenlabsgr/data-census.png?label=ready&title=Ready)](https://waffle.io/citizenlabsgr/data-census?utm_source=badge)
 # Data Census:
 
 
@@ -31,6 +30,7 @@ The US City Open Data Census is a web application developed and maintained by [S
 * Core maintainers and project guides are responsible for reviewing and merging all pull requests. In order to prevent frustrations with your first PR we recommend you reach out to our core maintainers who can help you through your first PR.
 * Need to practice working with github in a group setting? Checkout [github-playground](https://github.com/citizenlabsgr/open-lab)
 * Updates to documentation or readme are greatly appreciated and make for a great first PR. They do not need to be discussed in advance and will be merged as soon as possible.
+* Are you ready? [Start contributing now....](https://github.com/citizenlabsgr/data-census/blob/master/contribute.md)
 
 
 ### Skills
